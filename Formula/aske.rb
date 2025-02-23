@@ -2,7 +2,7 @@ class Aske < Formula
   include Language::Python::Virtualenv
 
   desc "Platform Architect Development Framework"
-  homepage "https://github.com/caraveo/aske"
+  homepage "https://github.com/caraveo/homebrew-aske"
   url "https://github.com/Caraveo/homebrew-aske/releases/download/0.2.0/aske-0.2.0.tar.gz"
   sha256 "6b26a7d481149a5c019a78018da83824a7779b9289780a467ba134d16416b502"
   license "MIT"
